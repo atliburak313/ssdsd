@@ -1,0 +1,92 @@
+}
+    "bot": {
+        "token": "OTgzNzk1MDE2MTk3NjAzMzY4.GeL2jH.h6XZAV_vad4pNBxbfwWKMEtsFRddTuZvqGY4lg",
+        "owner": "887009093187932160",
+        "prefix": ".",
+        "BotStatus": "Sanche #1976",
+        "BotFooter": "Sanche #1976",
+        "cooldown": 8,
+        "iltifatsize": 100
+    },
+    "penals": {
+        "ban": {
+            "staff": "983795664033034290",
+            "log": "983776105997688875",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "983795660174286868",
+            "roles": "983776102671614016",
+            "log": "983776105997688874",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "983795452652707901",
+            "roles": "983776102671614015",
+            "log": "983776105997688877",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "983795830341386250",
+            "log": "983796464947974164"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "messagelog": "983776105997688880",
+        "voicelog": "983776105997688878",
+        "taglog": "983776105997688873"
+    },
+    "roles": {
+        "boosterrole": "983776102713528352",
+        "viprole": "983796533805842492",
+        "designerrole": "TASARIMCI ROLÜ ID",
+        "musiciansrole": "MÜZÝSYEN ROLÜ ID",
+        "team": "983776102671614020",
+        "sponsored": "SPONSOR ROLÜ ID"
+    },
+    "channels": {
+        "chat": "CHAT KANALI ID",
+        "voicechannel": "SES KANALI ID",
+        "welcomechannel": "HOÞ GELDÝN KANALI ID",
+        "rules": "KURALLAR KANALI ID"
+    },
+    "parents": {
+        "publicparents": "983776104328339510"
+    },
+    "registration": {
+        "unregistered": "KAYITSIZ ROLÜ ID",
+        "man": ["ERKEK ROLÜ ID", "2. ERKEK ROLÜ ID YOKSA SÝL"],
+        "woman": ["KADIN ROLÜ ID", "2. KADIN ROLÜ ID YOKSA SÝL"],
+        "staff": "REGÝSTER ROLÜ ID",
+        "GuilDTag": "TAGINIZ",
+        "TagSymbol": "Kayýt Olunca Ýsim Yaþýn Önüne Koyacaðý Sembol",
+        "autonickname": "Ýsim | Yaþ",
+        "symbol": "|",
+        "suspecios": "ÞÜPHELÝ HESAP ROLÜ ID",
+        "susoeciosnickname": "$ Þüpheli Hesap",
+        "oneman": "ERKEK ROLÜ ID",
+        "onewoman": "KADIN ROLÜ ID",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "983776102629658744",
+        "GuilDName": "Sanche #1976",
+        "GuildOwnerRole": ["983776102742904851"]
+    },
+    "emojis": {
+        "tada": ":tada:",
+        "yes": ":thumbsup:",
+        "no": ":thumbsdown:"
+    },
+    "buttons": {
+        "giveaway": "983776102654812169",
+        "activity": "983776102654812168"
+    }
+}
